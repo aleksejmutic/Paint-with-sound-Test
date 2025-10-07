@@ -6,7 +6,7 @@ A web-based audio-visualizer that reacts to your microphone input. Play an instr
 
 - **Real-time audio visualization** using the Web Audio API.
 - **Four different shaders**:
-  - Vibrating circles
+  - Oscillating circles
   - Wave pattern
   - Flashing lights
   - Radial pulse
