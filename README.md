@@ -17,9 +17,7 @@ A web-based audio-visualizer that reacts to your microphone input. Play an instr
 
 Open `index.html` in a modern browser that supports WebGL and getUserMedia (Chrome, Edge, Firefox).
 
-## Installation
-
-1. Clone the repository:
+## Clone the repository:
 
 ```bash
 git clone https://github.com/aleksejmutic/Paint-with-sound.git
